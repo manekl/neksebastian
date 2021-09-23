@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @neksebastian
 - 👀 I’m interested in ...RedHat Openshift,IBM Cloud, GCP, Azure & AWS
-- 🌱 I’m currently learning ...k8, Tekton, Argo, Calico, ROKS
+- 🌱 I’m currently learning ...Openshift, Tekton, Argo, Calico
 - 💞️ I’m looking to collaborate on ...technical blogs, sessions, hackathons
 
 
