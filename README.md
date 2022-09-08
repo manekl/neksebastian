@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @neksebastian
-- 👀 I’m interested in ...Red Hat Openshift, GCP, Azure, AWS & IBM Cloud
+- 👀 I’m interested to work on.....Google Cloud, Terraform, Red Hat Openshift, AWS & Azure. 
 - 🌱 I’m currently learning ...Openshift, Terraform, Tekton, Argo..
 - 💞️ I’m looking to collaborate on ...technical blogs, sessions, hackathons
 
